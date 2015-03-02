@@ -8,6 +8,11 @@ Pixipedia
        src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png" />
 </a>
 
+Screenshots
+-----------
+
+<a href='screenshot-0.png'><img src='screenshot-0.png' alt='Pixipedia' width='256' /></a> <a href='screenshot-1.png'><img src='screenshot-1.png' alt='Pixipedia' width='256' /></a> <a href='screenshot-2.png'><img src='screenshot-2.png' alt='Pixipedia' width='256' /></a>
+
 License
 -------
 

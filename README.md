@@ -3,10 +3,7 @@
 Pixipedia
 =========
 
-<a href="https://play.google.com/store/apps/details?id=com.niedzielski.pixipedia.android">
-  <img alt="Android app on Google Play"
-       src="https://developer.android.com/images/brand/en_app_rgb_wo_60.png" />
-</a>
+<a href='https://play.google.com/store/apps/details?id=com.niedzielski.pixipedia.android'> <img alt='Pixipedia on Google Play' src='https://developer.android.com/images/brand/en_app_rgb_wo_60.png' /></a> <a href='https://www.amazon.com/gp/mas/dl/android?p=com.niedzielski.pixipedia.android'> <img alt='Pixipedia on Amazon Appstore' src='amazon-apps-store-us-black.png' /></a>
 
 Screenshots
 -----------

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Based on the MediaWiki Vector skin. -->
+    <color name="vector_primary">#fff2f5f7</color>
+    <color name="vector_primary_dark">#ff363636</color>
+    <color name="vector_primary_light">#ffffffff</color>
+    <color name="vector_accent">#2779aa</color>
+    <color name="vector_primary_text">#ff362b36</color>
+    <color name="vector_secondary_text">#ff222222</color>
+    <color name="vector_icons">#ffd7ebf9</color>
+    <color name="vector_divider">#ffaed0ea</color>
+
+    <integer-array name="vector_colors">
+        <item>@color/vector_primary</item>
+        <item>@color/vector_accent</item>
+        <item>@color/vector_primary_dark</item>
+        <item>@color/vector_primary_light</item>
+        <item>@color/vector_secondary_text</item>
+        <item>@color/vector_icons</item>
+        <item>@color/vector_primary_text</item>
+        <item>@color/vector_divider</item>
+    </integer-array>
+
+</resources>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Toolbar background. -->
+        <item name="colorPrimary">@color/vector_primary</item>
+
+        <!-- Status bar background. -->
+        <item name="colorPrimaryDark">@color/vector_primary_dark</item>
+
+        <!-- Default value for colorControlActivated (tint widgets). -->
+        <item name="colorAccent">@color/vector_accent</item>
+
+        <item name="android:textColorSecondary">@color/vector_secondary_text</item>
+
+        <item name="android:textColorHighlight">@color/vector_primary_light</item>
+        <item name="android:colorControlActivated">@color/vector_accent</item>
+
+        <!-- You can also set colorControlNormal, colorControlActivated
+             colorControlHighlight, and colorSwitchThumbNormal. -->
+
+        <item name="searchViewStyle">@style/AppSearchViewStyle</item>
+        <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewStyle</item>
+
+        <!-- https://github.com/android/platform_frameworks_base/blob/master/core/res/res/drawable-xxhdpi/text_select_handle_middle_mtrl_alpha.png -->
+        <item name="android:textSelectHandleLeft">@drawable/text_select_handle_left_material</item>
+        <item name="android:textSelectHandleRight">@drawable/text_select_handle_right_material</item>
+        <item name="android:textSelectHandle">@drawable/text_select_handle_middle_material</item>
+
+        <item name="spbStyle">@style/VectorProgressBar</item>
+    </style>
+
+    <style name="VectorProgressBar" parent="SmoothProgressBar">
+        <item name="spb_colors">@array/vector_colors</item>
+        <item name="spb_interpolator">spb_interpolator_acceleratedecelerate</item>
+        <item name="spb_mirror_mode">false</item>
+        <item name="spb_progressiveStart_activated">true</item>
+        <item name="spb_progressiveStart_speed">@dimen/progress_bar_start_speed</item>
+        <item name="spb_progressiveStop_speed">@dimen/progress_bar_stop_speed</item>
+        <item name="spb_reversed">true</item>
+        <item name="spb_sections_count">@dimen/progress_bar_sections</item>
+        <item name="spb_speed">@dimen/progress_bar_speed</item>
+        <item name="spb_stroke_separator_length">@dimen/progress_bar_stroke_separator_length</item>
+        <item name="spb_stroke_width">@dimen/progress_bar_height</item>
+    </style>
+
+    <style name="AppSearchViewStyle" parent="Widget.AppCompat.SearchView" />
+
+    <style name="AutoCompleteTextViewStyle" parent="Widget.AppCompat.AutoCompleteTextView" />
+
+</resources>

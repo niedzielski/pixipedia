@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pixipedia</string>
+
+    <string name="home_activity">@string/app_name</string>
+    <string name="image_activity">Image</string>
+
+    <string name="author_name">Stephen Niedzielski</string>
+    <string name="author_email_html"><![CDATA[<a href="mailto:stephen@niedzielski.com">stephen@niedzielski.com</a>]]></string>
+    <string name="author_link_html"><![CDATA[<a href="stephen.niedzielski.com">stephen.niedzielski.com</a>]]></string>
+
+    <string name="menu_query_title">Search</string>
+
+    <string name="page_image_search_init_query">San Francisco</string>
+
+    <string name="drawer_text_phrase">{author}\nemail: {email}\nwww: {www}</string>
+
+    <string name="search_generic_failure">Unable to download results.</string>
+</resources>

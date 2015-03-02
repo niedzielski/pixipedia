@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="thumbnail_size">200dp</dimen>
+    <integer name="query_result_limit">50</integer>
+
+    <dimen name="drawer_width">280dp</dimen>
+    <dimen name="drawer_padding">10dp</dimen>
+
+    <dimen name="drawer_header_text_size">24sp</dimen>
+    <dimen name="drawer_sub_text_size">14sp</dimen>
+
+    <dimen name="image_card_corner_radius">0dp</dimen>
+    <dimen name="image_card_elevation">2dp</dimen>
+    <dimen name="image_card_content_padding">10dp</dimen>
+    <dimen name="image_card_layout_margin">6dp</dimen>
+
+    <dimen name="progress_bar_height">4dp</dimen>
+    <dimen name="progress_bar_stroke_separator_length">0dp</dimen>
+    <item name="progress_bar_sections" format="integer" type="dimen">4</item>
+    <item name="progress_bar_speed" format="float" type="dimen">1.7</item>
+    <item name="progress_bar_start_speed" format="float" type="dimen">1.5</item>
+    <item name="progress_bar_stop_speed" format="float" type="dimen">3.4</item>
+
+</resources>
